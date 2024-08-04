@@ -3,21 +3,31 @@ To use this script, the user must enter an IP address in the terminal. The scrip
 
 #use this comnand to run the script:
 
- ```python3 deviceR3con.py```
+ ```
+ python3 deviceR3con.py
+```
 
  #if you get  a `reportMissingModuleSource` warning , please install pip3 on your system with following command:
 
- ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
+ ```
+ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```
 
  #after you use this command:
 
- ```python3 or python get-pip.py```
+ ```
+python3 or python get-pip.py
+ ```
 
 
  #check the version with one of the following commands:
 
-``` pip --version```
-```pip3 --version```
+``` 
+pip --version
+```
+```
+pip3 --version
+```
 
 
 feel free to contribute or correct me if i made a mistake.
